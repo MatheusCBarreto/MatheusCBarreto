@@ -1,46 +1,59 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header"/>
+<h1 align="left">🙋🏻‍♂️Olá! Seja bem-vindo ao meu perfil no GitHub!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=74D2F1&&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+de+Carvalho+Barreto;I'm+25+years+old;I+from+Brazil;I+study+Information+Systems+at+Unisinos;Be+Welcome!+:%29)](https://git.io/typing-svg)
+- Sou desenvolvedor Full Stack ReactJs e PHP/Laravel, além de Java com Spring. Também tenho conhecimentos em banco de dados!
+<br>
 
-<div align="space-between">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusCBarreto&show_icons=true&count_private=true&hide_border=true&title_color=74D2F1&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="MatheusCBarreto github stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCBarreto&layout=compact&hide_border=true&title_color=74D2F1&text_color=00bfbf&bg_color=0d1117" />
+# 👨🏻Sobre mim:
+- 26 anos
+- Acadêmico de Sistemas de Informação
+- Imperatriz, MA
+###
+
+<br>
+
+# ⚙️Minhas principais stacks:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusCBarreto&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusCBarreto&theme=light&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+###
+# ☎️Meus Contatos:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+</div>
 
-### Main skills:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+###
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+<br>
 
-### Other Knowledge:
-![Node.JS](https://img.shields.io/badge/Node.JS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-  
-### Studying in this moment:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+# 📊Algumas estatísticas:
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=MatheusCBarreto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusCBarreto}/count.svg" /></p> 
-<br></div>
-  
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C1FF&height=120&section=footer"/>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCBarreto/MatheusCBarreto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCBarreto/MatheusCBarreto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusCBarreto/MatheusCBarreto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
