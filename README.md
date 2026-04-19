@@ -1,63 +1,27 @@
-<h1 align="center">🙋🏻‍♂️Olá! Seja bem-vindo ao meu perfil no GitHub!</h1>
+## Olá, Matheus por aqui! :)
 
-- Sou desenvolvedor Full Stack ReactJs e PHP/Laravel, além de Java com Spring. Também tenho conhecimentos em banco de dados!
+Sou desenvolvedor Back-End PHP | Laravel | MySQL. Atualmente trabalho com suporte de TI em uma concessionária de veículos, mas apaixado por programação e desenvolvimento de soluções em software.
+
+#### Sobre mim:
+26 anos
 <br>
-
-# 👨🏻Sobre mim:
-- 26 anos
-- Acadêmico de Sistemas de Informação
-- Imperatriz, MA
-###
-
+Acadêmico de Sistemas de Informação
 <br>
+Imperatriz, MA
+<br>
+#### Principais ferramentas de solução utilizadas por mim:
+PHP
+<br>
+Laravel
+<br>
+MySQL
+<br>
+Wordpress
+<br>  
+#### Vamos trabalhar juntos? Minhas redes estão logo abaixo: ;)
 
-<h1 align="center">⚙️Minhas principais stacks:</h1>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
+<div style="display: inline">
+  <a href="mailto:intercarvalhod10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:devmattbarreto@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheusdecarvalhobarreto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-<br>
-
-###
-
-<h1 align="center">☎️Meus Contatos:</h1>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-</div>
-
-###
-
-<br>
-
-# 
-<h1 align="center">📊Algumas estatísticas:</h1>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MatheusCBarreto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCBarreto/MatheusCBarreto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCBarreto/MatheusCBarreto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusCBarreto/MatheusCBarreto/output/pacman-contribution-graph.svg">
-</picture>
-
-###
