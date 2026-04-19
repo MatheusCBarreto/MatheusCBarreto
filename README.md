@@ -18,7 +18,7 @@ MySQL
 <br>
 Wordpress
 <br>  
-#### Vamos trabalhar juntos? Minhas redes estão logo abaixo: ;)
+#### Vamos trabalhar juntos? Minhas redes estão logo abaixo: 
 
 <div style="display: inline">
   <a href="mailto:intercarvalhod10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
