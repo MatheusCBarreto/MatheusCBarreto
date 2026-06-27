@@ -3,7 +3,7 @@
 Sou desenvolvedor Back-End PHP | Laravel | MySQL. Atualmente trabalho com suporte de TI em uma concessionária de veículos, mas apaixado por programação e desenvolvimento de soluções em software.
 
 #### **Sobre mim:**
-26 anos
+27 anos
 <br>
 Acadêmico de Sistemas de Informação
 <br>
